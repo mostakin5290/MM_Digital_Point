@@ -1,0 +1,6 @@
+{
+  "name": "MM Digital Point",
+  "description": "MM Digital Point - Cyber cafe and digital service counter management system for Xerox, online forms, passport photo, billing and daily accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

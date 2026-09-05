@@ -1,0 +1,122 @@
+{
+  "shop": {
+    "name": "Digital Seva & Cyber Cafe",
+    "phone": "9876543210",
+    "address": "Station Road, Main Market",
+    "upiId": "cybercafe@upi"
+  },
+  "categories": [
+    {
+      "id": "cat-xerox",
+      "name": "Xerox & Print",
+      "bengaliName": "জেরক্স ও প্রিন্ট"
+    },
+    {
+      "id": "cat-form",
+      "name": "Online Form Fillup",
+      "bengaliName": "অনলাইন ফর্ম ফিলাপ"
+    },
+    {
+      "id": "cat-photo",
+      "name": "Passport Photo",
+      "bengaliName": "পাসপোর্ট ছবি"
+    },
+    {
+      "id": "cat-recharge",
+      "name": "Recharge & Bill",
+      "bengaliName": "রিচার্জ ও বিল"
+    },
+    {
+      "id": "cat-card",
+      "name": "Card & Lamination",
+      "bengaliName": "স্মার্ট কার্ড ও লেমিনেশন"
+    }
+  ],
+  "services": [
+    {
+      "id": "srv-1",
+      "categoryId": "cat-xerox",
+      "name": "B&W Xerox (Single Side)",
+      "rate": 2,
+      "unit": "page"
+    },
+    {
+      "id": "srv-2",
+      "categoryId": "cat-xerox",
+      "name": "B&W Xerox (Both Sides)",
+      "rate": 3,
+      "unit": "page"
+    },
+    {
+      "id": "srv-3",
+      "categoryId": "cat-xerox",
+      "name": "Color Print / Xerox",
+      "rate": 10,
+      "unit": "page"
+    },
+    {
+      "id": "srv-4",
+      "categoryId": "cat-form",
+      "name": "Govt Job Form Fillup (SSC, Rail, PSC)",
+      "rate": 100,
+      "unit": "form"
+    },
+    {
+      "id": "srv-5",
+      "categoryId": "cat-form",
+      "name": "Scholarship Apply (SVMCM / Oasis)",
+      "rate": 80,
+      "unit": "form"
+    },
+    {
+      "id": "srv-6",
+      "categoryId": "cat-form",
+      "name": "PAN Card Apply / Correction",
+      "rate": 150,
+      "unit": "form"
+    },
+    {
+      "id": "srv-7",
+      "categoryId": "cat-photo",
+      "name": "Passport Photo (8 copies)",
+      "rate": 50,
+      "unit": "set"
+    },
+    {
+      "id": "srv-8",
+      "categoryId": "cat-photo",
+      "name": "Passport Photo (16 copies)",
+      "rate": 80,
+      "unit": "set"
+    },
+    {
+      "id": "srv-9",
+      "categoryId": "cat-card",
+      "name": "PVC Smart Card Print (Aadhaar/Voter)",
+      "rate": 50,
+      "unit": "piece"
+    },
+    {
+      "id": "srv-10",
+      "categoryId": "cat-card",
+      "name": "Lamination (A4 Document)",
+      "rate": 20,
+      "unit": "piece"
+    },
+    {
+      "id": "srv-11",
+      "categoryId": "cat-recharge",
+      "name": "Mobile / DTH Recharge",
+      "rate": 0,
+      "unit": "item"
+    },
+    {
+      "id": "srv-12",
+      "categoryId": "cat-recharge",
+      "name": "Electricity Bill Payment (WBSEDCL)",
+      "rate": 15,
+      "unit": "bill"
+    }
+  ],
+  "transactions": []
+}
